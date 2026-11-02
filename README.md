@@ -14,20 +14,7 @@ The system is capable of processing both **images and videos**, detecting licens
 
 ## Demo :
 
-On Image :
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/76219802/214331437-c8b24ea6-270c-4126-af27-3101ab53a897.png" />
-</p>
-
-<video src="https://user-images.githubusercontent.com/76219802/214332571-d343d046-4289-40e0-a576-1cb2f922749b.mp4" controls="controls" style="max-width: 1000px;" autoplay = "autoplay">
-</video>
-
-On Video :
-
-<video src="https://user-images.githubusercontent.com/76219802/214332706-f53988c8-1ea3-4450-b497-8db703b1842a.mp4" controls="controls" style="max-width: 1000px;" autoplay = "autoplay">
-</video>
-
+![On Image :](assets/ss-dashboard.png)
 ---
 
 ## 2. Project Objectives
