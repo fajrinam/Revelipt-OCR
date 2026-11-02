@@ -45,6 +45,7 @@ The primary objectives of this project are:
 ## 3. Repository Overview
 
 **GitHub Repository:** 
+[https://github.com/fajrinam/Revelipt-OCR](https://github.com/fajrinam/Revelipt-OCR)
 
 ### Repository Structure
 
@@ -75,7 +76,7 @@ Automatic-License-Plate-Recognition-with-OCR/
 | Library                    | Purpose                        |
 | -------------------------- | ------------------------------ |
 | OpenCV                     | Image and video processing     |
-| PaddleOCR                  | Optical Character Recognition  |
+| PaddleOCR / EasyOCR        | Optical Character Recognition  |
 | NumPy                      | Numerical and array operations |
 | Streamlit                  | Web application interface      |
 | Pillow                     | Image handling                 |
